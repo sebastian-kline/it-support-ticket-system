@@ -44,7 +44,7 @@ This separation of concerns improves maintainability and scalabitlity.
 ## How to Run
 
 1. Clone the repository:  
-`git clone INSERT LINK HERE`
+`git clone (https://github.com/sebastian-kline/it-support-ticket-system)`
 2. Open the project in your preferred IDE
 3. Run the Spring Boot application
 4. Open your browser and go to:
